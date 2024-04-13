@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">sanchezalvarez</string>
+
+    <string name="saludo_primer_fragmento"> primer fragmento</string>
+    <string name="saludo_segundo_fragmento"> segundo fragmento</string>
+    <string name="saludo_tercer_fragmento"> tercer fragmento</string>
+    <string name="saludo_cuarto_fragmento"> Cuarto fragmento</string>
+
+
+    <string name="item_primer_fragmento"> fragmento 1</string>
+
+    <string name="item_segundo_fragmento"> fragmento 2</string>
+
+    <string name="item_tercer_fragmento"> fragmento 3</string>
+    <string name="item_cuarto_fragmento"> fragmento 4</string>
+
+</resources>
